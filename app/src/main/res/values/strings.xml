@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="next">Next</string>
+    <string name="discover">Saved Listings</string>
+    <string name="shop">Add New Listings</string>
+    <string name="offers">Chat</string>
+    <string name="rewards">Get Notified</string>
+    <string name="discover_text">Save your favorite listings to come back to them later.</string>
+    <string name="shop_text"><![CDATA[Add new listings directly from the app, including photo gallery and filters.]]></string>
+    <string name="offers_text">Communicate witj your customers and wendors in real-time</string>
+    <string name="rewards_text"><![CDATA[Stay on top of your game with rael-time push notifications.]]></string>
+    <string name="get_started">Get Started</string>
+</resources>
